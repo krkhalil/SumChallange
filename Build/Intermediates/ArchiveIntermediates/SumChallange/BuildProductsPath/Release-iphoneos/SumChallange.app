@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/60 Dollars Apps/SumChallange/Build/Intermediates/ArchiveIntermediates/SumChallange/InstallationBuildProductsLocation/Applications/SumChallange.app
